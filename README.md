@@ -1,8 +1,8 @@
 # linux-redshift
 
-Configuration to distribute for `redshift`.
+Configuration for `redshift` or `gammastep`.
 
-## Quickstart
+## Install
 
 ```
 git clone git@github.com:dpopchev/linux-redshift.git
